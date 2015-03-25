@@ -1,0 +1,8 @@
+.idea
+.settings
+bin
+.classpath
+.project
+*.iml
+*.rar
+.git
